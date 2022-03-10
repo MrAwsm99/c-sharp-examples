@@ -1,8 +1,0 @@
-C:\Users\Lenovo\source\repos\day2\bin\Debug\day2.exe.config
-C:\Users\Lenovo\source\repos\day2\bin\Debug\day2.exe
-C:\Users\Lenovo\source\repos\day2\bin\Debug\day2.pdb
-C:\Users\Lenovo\source\repos\day2\obj\Debug\day2.csproj.AssemblyReference.cache
-C:\Users\Lenovo\source\repos\day2\obj\Debug\day2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Lenovo\source\repos\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\day2\obj\Debug\day2.exe
-C:\Users\Lenovo\source\repos\day2\obj\Debug\day2.pdb
